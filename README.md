@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LIKHITHADITHYA
+- 👋 Hi, I’m @LA
 - 👀 I’m interested in TECH 
 - 🌱 I’m currently learning DATA SCIENCE
 - 💞️ I’m looking to collaborate on ...
